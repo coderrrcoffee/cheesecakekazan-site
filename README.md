@@ -4,6 +4,10 @@
 
 Без CRM, базы данных и бэкенда.
 
+## Превью
+
+https://coderrrcoffee.github.io/cheesecakekazan-site/
+
 ## Деплой на Vercel
 
 1. Add New Project → Import Git Repository.
