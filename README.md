@@ -28,6 +28,10 @@ https://coderrrcoffee.github.io/cheesecakekazan-site/
 
 Схема полей — в `.pages.yml`. Клиент не может менять её и код.
 
+Прямая ссылка в CMS: https://app.pagescms.org/coderrrcoffee/cheesecakekazan-site
+
+Инструкция для клиента: [CMS.md](CMS.md).
+
 ## Что менять разработчику
 
 `config.js` — бренд и настройки:
