@@ -15,7 +15,7 @@ window.SITE_CONFIG = {
     ogImage: "assets/photos/og.jpg",
     // Домен нужен для корректного превью ссылки в мессенджерах.
     // Пример: "https://cheesecakekazan.ru" (без слэша в конце).
-    siteUrl: "",
+    siteUrl: "https://coderrrcoffee.github.io/cheesecakekazan-site",
     priceRange: "790–4 200 ₽"
   },
 
