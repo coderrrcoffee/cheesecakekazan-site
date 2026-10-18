@@ -266,11 +266,5 @@ window.SITE_CONFIG = {
   footer: {
     note: "Десерты, которые не нужно искать повода.",
     credit: ""
-  },
-
-  /* ── Текст, который уходит в Telegram ───────────────────── */
-  orderMessage: {
-    intro: "Новый заказ с сайта",
-    numberPrefix: "CK"
   }
 };
